@@ -40,8 +40,8 @@ tic-tac-toe/
 ### 1) Clonar o repositório
 
 ```bash
-git clone https://github.com/RaphaelOkuyama/tic-tac-toe.git
-cd tic-tac-toe
+git clone https://github.com/RaphaelOkuyama/tic-tac-toe-js.git
+cd tic-tac-toe-js
 ````
 
 ### 2) Rodar o app
@@ -67,3 +67,4 @@ Este projeto está licenciado sob a **MIT License**.
 Consulte o arquivo [LICENSE](./LICENSE) para o texto completo.
 
 Copyright (c) 2025 Raphael Okuyama
+
